@@ -13,6 +13,8 @@ public class genUsername {
 		  }
 		  System.out.println("username is "+u1);
 		  System.out.println("password is"+p1);
+		    System.out.println("password is"+p1);
+		  // Test
 
 	}
 
